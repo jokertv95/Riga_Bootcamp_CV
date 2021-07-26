@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../HTML_CSS/starter"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CVRiga"
+	}
+}
